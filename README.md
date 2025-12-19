@@ -1,6 +1,9 @@
-<h1>Hi, I'm Guilherme! <br/><a href="https://github.com/joshmadakor1"</a>, <a href="https://www.linkedin.com/in/guilherme-oliveira12/">Cybersecurity </a>, <a 
+<h1>Hi, I'm Guilherme! 
+  
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<a href="https://www.linkedin.com/in/guilherme-oliveira12/">Cybersecurity Jr</a>,
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -35,7 +38,7 @@
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
+[instagram]: https://www.instagram.com/gui.ricardoo/
 [linkedin]: https://www.linkedin.com/in/guilherme-oliveira12/
 
 <!--
